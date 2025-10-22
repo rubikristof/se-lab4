@@ -1,0 +1,2 @@
+GT4500,20,0,10,0 #letrehoz egy hajot aminek az egyik torpedostorejaba 20 a masikba 20 torpedo van
+TORPEDO,ALL #mindegyik lovedeket kilovi
